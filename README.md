@@ -10,6 +10,6 @@
     Funcional é mais fácil de manter, porque tem menos erros de estado e funções mais claras.
     Imperativo pode ser mais fácil de ler no início, mas fica mais complicado em projetos grandes.
 
-Aluno: João Gabriel Froes Cruz
-Matrícula: 2022009178
-PARADIGMAS DE PROGRAMAÇÃO
+1. Aluno: João Gabriel Froes Cruz
+2. Matrícula: 2022009178
+3. PARADIGMAS DE PROGRAMAÇÃO
