@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "João Gabriel Froes Cruz",
+        "idade": 22
+    },
+    {
+        "id": 2,
+        "nome": "Pedro",
+        "idade": 34
+    },
+    {
+        "id": 3,
+        "nome": "Gustavo",
+        "idade": 5
+    },
+    {
+        "id": 4,
+        "nome": "Kauan",
+        "idade": 4
+    }
+]
