@@ -11,3 +11,5 @@
     Imperativo pode ser mais fácil de ler no início, mas fica mais complicado em projetos grandes.
 
 Aluno: João Gabriel Froes Cruz
+Matrícula: 2022009178
+PARADIGMAS DE PROGRAMAÇÃO
